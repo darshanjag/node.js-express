@@ -1,0 +1,1 @@
+the app wont work without config.env which has mongo configuration details, which hasn't been pushed  
