@@ -63,6 +63,7 @@ app.use((req, res, next) => {
 
 //user functions 
 
+
  app.use((req,res,next)=>{
    console.log(req.cookies);
    next();
